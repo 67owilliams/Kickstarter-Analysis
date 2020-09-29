@@ -1,0 +1,16 @@
+# Crowdfunding Kickstarter
+
+## Overview of Project:
+	The purpose of this project was to compare variables from various crowdfunding campaigns and how they affected the outcomes on they're succeses and failures to find the most efficient way to fund Louise's Kickstarter for her play.
+
+## Analysis and Challenges:
+	In order to use the COUNTIFS function I had to use one criteria a step at a time to troubleshoot and truly understand how the function was using the data until i got the desired result. I then double checked to make sure the values were correct by summing "Outcomes Successful", "Outcomes failed", etc. to equal "Total "Outcomes". The percentages I also verified by making sure they totaled 100%.
+
+### Analysis of Outcomes Based on Launch Date:
+	My analysis on launch date is that January is the most advantageous month to launch a campaign even if you were to compare only results from the "Theatre" Category.It would be best to avoid the months of November and December when compared to other categories having the least amount of successful campaigns throughout the years.
+	
+### Analysis of Outcomes Based on Goals:
+	My analysis based on goals is that although most campaigns were aimed at reaching an amount between $1000 to $4999 they were not the most succesful based on percentages, with campaigns aimed for fundings for a goal less than $1000 being the most successful at 71%.
+
+## Results
+	The results of the analysis are if Louise were to launch her kickstarter funding campaign during the the month of July and lower her goal it would stand a greater chance of success. One thing that the dataset could've used was how long the campaigns were running before they met they're goals.That would give an idea on an ideal timeframe on how long she should run the campaign.
